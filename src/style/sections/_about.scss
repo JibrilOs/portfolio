@@ -43,6 +43,32 @@
       height: 100%;
       justify-content: center;
       flex-direction: column;
+          .skills-bar-container{
+       width:100%;
+        margin-left: 10%;
+        
+        
+          }
+          h3 {
+            display: inline-block;
+            padding-right: 250px;
+          }
+
+          .percent {
+            font-size: 1.5rem;
+       
+       
+         padding-right: 35px;
+          }
+
+          span.jav{
+
+transform: translate(10%, 0);
+
+          }
+.progressbar{
+ width:100px;
+}
 
       &-text {
         text-align: left;
